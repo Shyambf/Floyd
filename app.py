@@ -1,9 +1,7 @@
 import customtkinter
-import tkinter
 import math
 customtkinter.set_appearance_mode("System")
 customtkinter.set_default_color_theme("blue")  
-import pprint
 
 class MyTabView(customtkinter.CTkTabview):
     def __init__(self, master, **kwargs):
