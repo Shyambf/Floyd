@@ -1,0 +1,4 @@
+build.sh
+build
+dist
+app.spec
